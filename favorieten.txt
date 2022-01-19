@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Snickers
 Pickles chips
 Bitterballen
+=======
+Eternal Sunshine of the Spotless Mind
+Interstellar
+Dune
+>>>>>>> films
